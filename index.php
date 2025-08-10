@@ -50,6 +50,11 @@
                         <td>jane@example.com</td>
                         <td>+91 98765 12345</td>
                     </tr>
+					<tr>
+                        <td>Keyur Thakor</td>
+                        <td>keyur@example.com</td>
+                        <td>+91 73870 12345</td>
+                    </tr>
                 </tbody>
             </table>
         </section>
